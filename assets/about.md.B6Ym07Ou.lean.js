@@ -1,0 +1,1 @@
+import{_ as a,c as r,o as t,ae as i}from"./chunks/framework.rALrdHto.js";const f=JSON.parse('{"title":"About the Workshop","description":"","frontmatter":{},"headers":[],"relativePath":"about.md","filePath":"about.md"}'),o={name:"about.md"};function s(n,e,c,l,d,u){return t(),r("div",null,e[0]||(e[0]=[i("",8)]))}const m=a(o,[["render",s]]);export{f as __pageData,m as default};
