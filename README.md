@@ -1,1 +1,1 @@
-# website-2025
+# Website for IEEE QCE25 Workshop

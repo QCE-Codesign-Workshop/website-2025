@@ -1,0 +1,17 @@
+:root {
+    --vp-c-brand: #007acc;        /* Primary color (buttons, links, etc) */
+    --vp-c-brand-light: #3caeff;
+    --vp-c-brand-dark: #005b99;
+
+    --vp-c-bg: #fdfdfd;           /* Page background */
+    --vp-c-text: #1a1a1a;         /* Text color */
+}
+
+body {
+    font-family: "Helvetica Neue", sans-serif;
+}
+
+h1, h2, h3 {
+    color: var(--vp-c-brand);
+}
+

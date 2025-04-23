@@ -1,0 +1,26 @@
+{
+  "name": "ieee-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ieee-qce-bridge-wksp/website-2025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ieee-qce-bridge-wksp/website-2025/issues"
+  },
+  "homepage": "https://github.com/ieee-qce-bridge-wksp/website-2025#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}
