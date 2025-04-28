@@ -1,17 +1,40 @@
 :root {
-    --vp-c-brand: #007acc;        /* Primary color (buttons, links, etc) */
+    --vp-c-brand: #007acc;
     --vp-c-brand-light: #3caeff;
     --vp-c-brand-dark: #005b99;
-
-    --vp-c-bg: #fdfdfd;           /* Page background */
-    --vp-c-text: #1a1a1a;         /* Text color */
-}
-
-body {
+  
+    --vp-c-bg: #fdfdfd;        /* Light mode background */
+    --vp-c-text: #1a1a1a;      /* Light mode text */
+  }
+  
+  body {
     font-family: "Helvetica Neue", sans-serif;
-}
-
-h1, h2, h3 {
+    background-color: var(--vp-c-bg);
+    color: var(--vp-c-text);
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  h1, h2, h3 {
     color: var(--vp-c-brand);
-}
-
+    transition: color 0.3s;
+  }
+  
+  /* 🎯 Dark Mode Handling (using VitePress `.dark` class) */
+  html.dark {
+    --vp-c-bg: #1a1a1a;         /* Dark background */
+    --vp-c-text: #f0f0f0;       /* Light text */
+    --vp-c-brand: #60a5fa;      /* Adjusted blue for dark mode */
+    --vp-c-brand-light: #93c5fd;
+    --vp-c-brand-dark: #3b82f6;
+  }
+  
+  /* These will react automatically when the .dark class is present */
+  html.dark body {
+    background-color: var(--vp-c-bg);
+    color: var(--vp-c-text);
+  }
+  
+  html.dark h1, html.dark h2, html.dark h3 {
+    color: var(--vp-c-brand);
+  }
+  
