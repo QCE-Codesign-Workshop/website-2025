@@ -1,5 +1,8 @@
 # Schedule
 
+**Thursday, September 4, 2025**
+Rooms 23/25 (Nambe/Navajo)
+
 ### Session 1: Device-aware simulation
 **🕙 10:00 – 11:30 MDT**  
 **Chair:** Tina Oberoi  
