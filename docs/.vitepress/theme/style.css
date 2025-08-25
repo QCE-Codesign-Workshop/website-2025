@@ -38,3 +38,28 @@
     color: var(--vp-c-brand);
   }
   
+/* Add two column layout */
+.two-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.25rem;
+  align-items: start;
+}
+@media (max-width: 768px) {
+  .two-col { grid-template-columns: 1fr; }
+}
+.two-col img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 0.5rem;
+}
+.muted { color: var(--vp-c-text-2); font-size: 0.95em; }
+
+/* Center images */
+.center-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
+}

@@ -3,8 +3,23 @@
 ## Organizers
 
 - Andy J. Goldschmidt, Siddharth Dangwal, and Tina Oberoi (University of Chicago)
-- Stefanie Guenther (Lawrence Livermore National Lab)
 - Gokul Subramanian Ravi (University of Michigan)
+
+<div class="two-col">
+
+<div>
+
+<img src="/images/UChicago_Shield_Maroon.png" alt="University of Chicago" loading="lazy" width="100" height="50" class="center-img" />
+
+</div>
+
+<div>
+
+<img src="/images/U-M_Logo-Hex.png" alt="University of Michigan" loading="lazy" width="100" height="50" class="center-img" />
+
+</div>
+
+</div>
 
 ## Abstract
 
@@ -48,8 +63,6 @@ The workshop will be of interest to a wide audience. Researchers in physics, con
 [Andy J. Goldschmidt](https://www.linkedin.com/in/andy-goldschmidt) is an IC Postdoctoral Research Fellow studying novel control and readout schemes for gate-based quantum computing at the University of Chicago, working with Fred Chong. Andy completed his Ph.D. in Physics in 2022 at the University of Washington in Seattle; Andy's thesis focused on physics-informed machine learning and control of dynamical systems. Andy has previously organized quantum workshops at SIAM CSE, IEEE QCE, and JuliaCon.
 
 [Siddharth Dangwal](https://www.linkedin.com/in/siddharth-dangwal-2b16ab153/) is a fourth year PhD student at UChicago working with Fred Chong. He is broadly interested in software and architecture for error correction and error mitigation. He received his bachelor's degree in Electrical Engineering from IIT Delhi. He has previously interned at IBM Quantum, and his work has been published in ISCA, ASPLOS, MICRO, and HPCA
-
-[Stefanie Guenther](https://www.linkedin.com/in/stefanie-guenther) is a research staff member at Lawrence Livermore National Laboratory (LLNL) focusing on quantum dynamical learning and quantum optimal control. She received her PhD in Applied Mathematics in 2017 at RWTH Aachen University, Germany, before joining LLNL under the Sidney Fernbach Fellowship. 
 
 [Tina Oberoi](https://www.linkedin.com/in/oberoitina/) is a first year PhD student in Computer Science at University of Chicago under the guidance of Fred Chong. She received her master’s in computer science from University of Chicago and her undergrad degree from Indian Institute of Technology Roorkee, India. Her research interests include quantum simulations and methods to improve the performance of quantum error correction on real quantum devices.
 
