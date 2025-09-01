@@ -1,0 +1,1 @@
+import{_ as t,c as i,o as a,ae as o}from"./chunks/framework.rALrdHto.js";const p=JSON.parse('{"title":"Schedule","description":"","frontmatter":{},"headers":[],"relativePath":"schedule.md","filePath":"schedule.md"}'),r={name:"schedule.md"};function s(n,e,l,c,u,m){return a(),i("div",null,e[0]||(e[0]=[o("",26)]))}const h=t(r,[["render",s]]);export{p as __pageData,h as default};
